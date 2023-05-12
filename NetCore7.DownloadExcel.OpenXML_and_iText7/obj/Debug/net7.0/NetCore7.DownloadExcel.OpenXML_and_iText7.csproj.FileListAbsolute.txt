@@ -1,0 +1,15 @@
+D:\Workspace\git_repo\NetCore7.DownloadExcel.OpenXML_and_iText7\NetCore7.DownloadExcel.OpenXML_and_iText7\bin\Debug\net7.0\NetCore7.DownloadExcel.OpenXML_and_iText7.exe
+D:\Workspace\git_repo\NetCore7.DownloadExcel.OpenXML_and_iText7\NetCore7.DownloadExcel.OpenXML_and_iText7\bin\Debug\net7.0\NetCore7.DownloadExcel.OpenXML_and_iText7.deps.json
+D:\Workspace\git_repo\NetCore7.DownloadExcel.OpenXML_and_iText7\NetCore7.DownloadExcel.OpenXML_and_iText7\bin\Debug\net7.0\NetCore7.DownloadExcel.OpenXML_and_iText7.runtimeconfig.json
+D:\Workspace\git_repo\NetCore7.DownloadExcel.OpenXML_and_iText7\NetCore7.DownloadExcel.OpenXML_and_iText7\bin\Debug\net7.0\NetCore7.DownloadExcel.OpenXML_and_iText7.dll
+D:\Workspace\git_repo\NetCore7.DownloadExcel.OpenXML_and_iText7\NetCore7.DownloadExcel.OpenXML_and_iText7\bin\Debug\net7.0\NetCore7.DownloadExcel.OpenXML_and_iText7.pdb
+D:\Workspace\git_repo\NetCore7.DownloadExcel.OpenXML_and_iText7\NetCore7.DownloadExcel.OpenXML_and_iText7\obj\Debug\net7.0\NetCore7.DownloadExcel.OpenXML_and_iText7.csproj.AssemblyReference.cache
+D:\Workspace\git_repo\NetCore7.DownloadExcel.OpenXML_and_iText7\NetCore7.DownloadExcel.OpenXML_and_iText7\obj\Debug\net7.0\NetCore7.DownloadExcel.OpenXML_and_iText7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\git_repo\NetCore7.DownloadExcel.OpenXML_and_iText7\NetCore7.DownloadExcel.OpenXML_and_iText7\obj\Debug\net7.0\NetCore7.DownloadExcel.OpenXML_and_iText7.AssemblyInfoInputs.cache
+D:\Workspace\git_repo\NetCore7.DownloadExcel.OpenXML_and_iText7\NetCore7.DownloadExcel.OpenXML_and_iText7\obj\Debug\net7.0\NetCore7.DownloadExcel.OpenXML_and_iText7.AssemblyInfo.cs
+D:\Workspace\git_repo\NetCore7.DownloadExcel.OpenXML_and_iText7\NetCore7.DownloadExcel.OpenXML_and_iText7\obj\Debug\net7.0\NetCore7.DownloadExcel.OpenXML_and_iText7.csproj.CoreCompileInputs.cache
+D:\Workspace\git_repo\NetCore7.DownloadExcel.OpenXML_and_iText7\NetCore7.DownloadExcel.OpenXML_and_iText7\obj\Debug\net7.0\NetCore7.DownloadExcel.OpenXML_and_iText7.dll
+D:\Workspace\git_repo\NetCore7.DownloadExcel.OpenXML_and_iText7\NetCore7.DownloadExcel.OpenXML_and_iText7\obj\Debug\net7.0\refint\NetCore7.DownloadExcel.OpenXML_and_iText7.dll
+D:\Workspace\git_repo\NetCore7.DownloadExcel.OpenXML_and_iText7\NetCore7.DownloadExcel.OpenXML_and_iText7\obj\Debug\net7.0\NetCore7.DownloadExcel.OpenXML_and_iText7.pdb
+D:\Workspace\git_repo\NetCore7.DownloadExcel.OpenXML_and_iText7\NetCore7.DownloadExcel.OpenXML_and_iText7\obj\Debug\net7.0\NetCore7.DownloadExcel.OpenXML_and_iText7.genruntimeconfig.cache
+D:\Workspace\git_repo\NetCore7.DownloadExcel.OpenXML_and_iText7\NetCore7.DownloadExcel.OpenXML_and_iText7\obj\Debug\net7.0\ref\NetCore7.DownloadExcel.OpenXML_and_iText7.dll
