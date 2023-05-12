@@ -64,8 +64,8 @@ namespace NetCore7.DownloadExcel.OpenXML_and_iText7
             PdfWriter MasterWriter;
 
             string filename = GenerateFileName(".pdf");
-            //string outfile2 = rootFolderPath + filename;
-            string outfile2 = "D:\\sqloutput\\demo.pdf";
+            string outfile2 = rootFolderPath + filename;
+            //string outfile2 = "D:\\sqloutput\\demo.pdf";
             MasterWriter = new PdfWriter(outfile2);
             PdfDocument pdfDocument = new PdfDocument(MasterWriter);
             pdfDocument.SetDefaultPageSize(PageSize.A4);
